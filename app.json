@@ -11,6 +11,10 @@
     {
       "name": "HELL DATA",
       "icon": "https://hell-store.netlify.app/img/logo.png"
-    }
+    },
+    {
+    "name": "HELL TV",
+    "icon": "https://hell-store.netlify.app/img/icon.png"
+}
   ]
 }
