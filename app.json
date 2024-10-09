@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "name": "ESign",
+      "icon": "https://store.feye.pro/img/xhk3j72my2lytwsnzu.png"
+    },
+    {
+      "name": "certificate",
+      "icon": "https://hell-store.netlify.app/img/logo.png"
+    },
+    {
+      "name": "HELL DATA",
+      "icon": "https://hell-store.netlify.app/img/logo.png"
+    }
+  ]
+}
