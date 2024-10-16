@@ -1,20 +1,13 @@
 {
   "apps": [
     {
-      "name": "ESign",
-      "icon": "https://store.feye.pro/img/xhk3j72my2lytwsnzu.png"
+      "name": "Video Star",
+      "icon": "https://black-store.netlify.app/img/video.png"
     },
     {
-      "name": "certificate",
-      "icon": "https://hell-store.netlify.app/img/logo.png"
+      "name": "Video Star2",
+      "icon": "https://black-store.netlify.app/img/video.png"
     },
-    {
-      "name": "HELL DATA",
-      "icon": "https://hell-store.netlify.app/img/logo.png"
-    },
-    {
-    "name": "HELL TV",
-    "icon": "https://hell-store.netlify.app/img/icon.png"
-}
+  
   ]
 }
